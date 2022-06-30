@@ -209,7 +209,7 @@ section{
     display: flex;
     align-items: center;
     
-    background:url(../images/header-bg.png) no-repeat;
+    background:url(header-bg.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
